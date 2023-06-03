@@ -1,1 +1,1 @@
-# moods
+Web sederhana berbasis CRUD
