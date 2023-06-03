@@ -1,0 +1,197 @@
+.yt{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.yti{
+    margin-left: 20px;
+}
+
+.ytu{
+    padding: 10px;
+}
+
+.music{
+    width: 200px;
+    height: 200px;
+    display: flex; 
+    flex-direction: row; 
+    width: 90vw;
+    margin-left: 10px;
+}
+
+.musici{
+    margin-left: 30px;
+    margin-top:50px;
+}
+
+.film{
+    flex-direction: row; 
+    width: 90vw;
+    margin-left: 40px;
+}
+
+.filmi{
+    flex-direction: row; 
+    width: 90vw;
+    margin-left: 70px;
+}
+.navbar{ 
+ 
+    padding:5px;
+    position:relative;
+    display:block;
+    width:75%;
+    border:1px solid rgba(160,160,160,0.8);
+    border-radius:5px;
+    text-align:center;
+    margin:auto;
+    margin-bottom:50px;
+    margin-top: 25px;
+    }
+
+    .navbar li{
+    display:inline-block;
+    width:20%;
+    font-weight:bold;
+    }
+
+    .navbar li a{
+    text-decoration: none;
+    color: #546e7a;
+    }
+    * {
+        margin:0; 
+        padding:0;
+    }
+
+   nav {
+       margin:auto;
+       text-align: center;
+       width: 100%;
+       top: 0;
+       position: fixed;
+       z-index: 1;
+   } 
+   
+   nav ul {
+       background:#FFE6E6;
+       padding: 1px;
+       list-style: none;
+       position: relative;
+       display: inline-table;
+       width: 100%;
+       font-size: 30px;
+       font-family: 'Charm', cursive;
+    }
+
+   nav ul li{
+       float: center;
+   }
+
+   nav ul li a{
+        display: block;
+        padding: 10px;
+        color:hsl(199, 18%, 40%);            ;
+        text-decoration: none;
+   }
+   
+.end{
+    background-color: #EFEFEF;
+}
+
+.judul{
+    font-family: 'Modak', cursive;
+    margin: 20px;
+    font-size: 80px; 
+    -webkit-text-fill-color: #F0EBE3;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #D3DEDC;
+    text-shadow: 7px 7px #B7C4CF;
+}
+
+.header{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 20px;
+}
+
+.tittle{
+    font-size: 3rem;
+    font-family: 'Nerko One', cursive;
+    -webkit-text-fill-color: #F0EBE3;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D3DEDC;
+    text-shadow: 5px 3px #B7C4CF;
+}
+
+.garis{
+    border-color: #B7C4CF;
+    border-style: solid;
+    border-width: medium;
+}
+
+.crd{
+    padding-top: 90px;
+}
+
+.btn{
+    background-color:#B7C4CF ;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    border-radius: 30px;
+    border: none;
+}
+
+.guest{
+    font-size: 4rem;
+    font-family: 'Modak', cursive;
+    -webkit-text-fill-color: #F0EBE3;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D3DEDC;
+    text-shadow: 5px 4px #B7C4CF;
+    margin-top: 20px;
+}
+
+.guesti{
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+    -webkit-text-fill-color: #F0EBE3;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D3DEDC;
+    text-shadow: 2px 2px #B7C4CF;
+
+}
+
+.bear{
+    height: auto;
+    width: auto;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.beary{
+    margin-left: 190px;
+    padding-top: 30px;
+}
+
+.ch{
+    background: url(pics/header.png);
+}
+
+.btnu{
+    background-color:#B7C4CF ;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+}
+
+.text{
+    margin: 35px;
+    text-align: justify;
+    margin-top: 25px;
+}
